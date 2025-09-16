@@ -1,0 +1,13 @@
+Texture ->	ResourceManager ->	SpriteRenderer ->	GameObject ->	Ball ->	Polygon ->	GameLevel -> Game
+Shader ->	
+				EBO ->	VAO ->
+				VBO ->
+
+
+
+Implement polygon collisions Triangles class
+Implement AABB tests for polygons beforehand for optimisation
+Test with more polygons
+Group triangles to convex shapes, which can be tested with https://stackoverflow.com/questions/471962/how-do-i-efficiently-determine-if-a-polygon-is-convex-non-convex-or-complex
+
+In-game polygon creator
